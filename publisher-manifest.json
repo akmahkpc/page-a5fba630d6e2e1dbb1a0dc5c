@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0a9144b3b65f0cda6117f1db",
+  "owner": "akmahkpc",
+  "repo": "page-a5fba630d6e2e1dbb1a0dc5c",
+  "title": "下北沢红茶馆",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a5fba630d6e2e1dbb1a0dc5c",
+      "a": "下北沢红茶馆",
+      "b": "2027官方最新地址导航",
+      "entity": "下北沢红茶馆",
+      "brand": "下北沢红茶馆",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e38fd0e0f2e81218d235f490d4afe1b3d47d9dd6c3f19bf7741c157ba4de383c",
+      "content": {
+        "primary_entity": "下北沢红茶馆",
+        "keyword1": "下北沢红茶馆",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付从 ¥15 起，年付同步给出 ¥150 至 ¥850 的优惠价格。流量从每月 100GB 到 1000GB，设备数量从 3 台到 20 台，适合个人、进阶用户和小团队挑选。客户端覆盖常见平台，订阅导入后即可按套餐权益使用，节点与流媒体解锁能力随档位提升。",
+          "AI_HERO_SUBTITLE": "下北沢红茶馆畅连多端",
+          "AI_HERO_INTRO": "下北沢红茶馆提供基础版、旗舰版与团队版订阅方案，月付价格从 ¥15 到 ¥85，年付方案提供对应的年度优惠价。流量、在线设备数量与节点类型随套餐档位变化，用户可按设备规模与使用场景选择合适订阅。",
+          "AI_VISUAL_TITLE": "下北沢红茶馆订阅导航",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付可享对应折扣价格",
+          "AI_HIGHLIGHT_3": "按设备数量选择在线额度",
+          "AI_FEATURES_INTRO": "套餐差异集中在流量额度、在线设备数量与节点类型，按使用强度选择即可。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常连接终端数挑选。",
+          "AI_FEATURE_TITLE_2": "按流量额度选择",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，轻度使用选基础版，高频下载或多人共用选团队版。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "客户端与设备",
+          "AI_CLIENTS_INTRO": "常见桌面与移动系统均有相应客户端，订阅导入方式以各客户端说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点类型上各有侧重，可结合日常用量与终端数量对比。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "先确认设备与用量，再选择套餐并完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据在线设备数量和每月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端要求，再决定订阅时长与付款方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，连接节点后即可按套餐权益使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再连接",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求选择套餐，完成订阅配置后即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合个人日常浏览、轻度流媒体使用，价格较低。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量提升至每月 300GB，设备数增至 5 台，并加入 IPLC 专线，适合对游戏加速和原生流媒体解锁有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以支持多少设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并配有 VIP 专属高带宽节点，适合小型团队或多设备场景。",
+          "AI_FAQ_QUESTION_4": "按年付比按月付节省多少？",
+          "AI_FAQ_ANSWER_4": "基础版按年付 150 元，旗舰版 350 元，团队版 850 元，相当于按月付十个月的价格，长期使用按年付更划算。",
+          "AI_FAQ_QUESTION_5": "订阅导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查客户端版本与订阅地址是否完整，再确认设备系统时间准确，并尝试更换节点或订阅协议。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnnnmm.cn",
+    "host": "nnnnmm.cn"
+  },
+  "file_hashes": {
+    "index.html": "8c891a19c93a9a777b266c37a0f18d7f625e9f8bdabfafbf0471ebee9e0dd39a",
+    "sitemap.xml": "9bfba79821b6d0bc28ef9698f762faf532e1fb94f2e9e79961780542f31e928a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a883fb4177329d3f91d568f5a6cdc7d3fe89bc3c31f2127d08938d4f0d797e68",
+    "robots.txt": "b0182bfbdf8360fa84371c193c214a823769c04c384ebf1cde48f352855e4014",
+    "988cd43a8d15704b7281462f22511091.txt": "ac58a7635a5d5f4bf455d5e0c389b3a0f87c75a3b51b880435aaaa8fbd4db98a"
+  },
+  "revision": "4dc2f8e7236741653c43a0ff78c3c3c33793ab956d974315d8e9fd1f1f1ee4d6"
+}
